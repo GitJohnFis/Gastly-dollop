@@ -10,3 +10,9 @@
     transform: rotate(45deg);
     border-color: brown;
 }
+
+.blurred{
+    filter: blur(10);
+    color: seashell;
+    
+}
