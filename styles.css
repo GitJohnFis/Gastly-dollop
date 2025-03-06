@@ -48,3 +48,8 @@ nav ul li{
     text-decoration: none;
     color: #efc94a;
 }
+.bond-quote{
+    line-height: 1.2;
+    font-style: italic;
+    color: seashell;
+}
