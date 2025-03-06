@@ -19,5 +19,20 @@
 .main-title{
     font-size: 20px;
     font-weight: bold;
+
+}
+#signIn-btn{
+    cursor: pointer;
+    box-sizing: border-box;
+    margin-top: 0;
+    padding: 0 16px;
+    background-color: #f8f9fa;
+
+}
+#signIn-btn:hover{
+    cursor: pointer;
+    background-color: #2a2a2b;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    transform: scaleY(2);
     
 }
