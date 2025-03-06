@@ -12,7 +12,7 @@
 }
 
 .blurred{
-    filter: blur(10);
+    filter: blur(4px);
     color: seashell;
 
 }
