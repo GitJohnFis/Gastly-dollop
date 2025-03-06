@@ -14,5 +14,10 @@
 .blurred{
     filter: blur(10);
     color: seashell;
+
+}
+.main-title{
+    font-size: 20px;
+    font-weight: bold;
     
 }
