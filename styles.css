@@ -36,3 +36,15 @@
     transform: scaleY(2);
     
 }
+nav ul{
+    padding: 0;
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+    margin: 0 1em;
+}
+.navbar{
+    text-decoration: none;
+    color: #efc94a;
+}
