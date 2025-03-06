@@ -1,0 +1,12 @@
+.confidential-main, .secret-files-main{
+    margin: 2px;
+    display: inline-block;
+    color: darkred;
+}
+
+#secret-files, #conidential{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    filter: blur(2);
+    transform: rotate(45deg);
+    border-color: brown;
+}
