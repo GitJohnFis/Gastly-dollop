@@ -34,7 +34,7 @@
     background-color: #2a2a2b;
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
     transform: scaleY(2);
-    cursor: url("Crosshair Cursor.jpg"), auto;
+    cursor: url("Crosshair Cursor.jpg"), crosshair;;
 }
 nav ul{
     padding: 0;
